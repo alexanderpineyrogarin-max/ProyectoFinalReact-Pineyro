@@ -1,0 +1,98 @@
+[
+  {
+    "id": "el-001",
+    "title": "Auriculares Bluetooth X10",
+    "price": 1890,
+    "stock": 25,
+    "category": "electronica",
+    "thumbnail": "https://picsum.photos/seed/aurisx10/600/400"
+  },
+  {
+    "id": "el-002",
+    "title": "Smartwatch Fit Pro",
+    "price": 3290,
+    "stock": 18,
+    "category": "electronica",
+    "thumbnail": "https://picsum.photos/seed/smartwatchfit/600/400"
+  },
+  {
+    "id": "el-003",
+    "title": "Teclado Mecánico RGB",
+    "price": 2590,
+    "stock": 12,
+    "category": "electronica",
+    "thumbnail": "https://picsum.photos/seed/tecladorgb/600/400"
+  },
+  {
+    "id": "el-004",
+    "title": "Parlante Portátil 20W",
+    "price": 2290,
+    "stock": 30,
+    "category": "electronica",
+    "thumbnail": "https://picsum.photos/seed/parlante20w/600/400"
+  },
+  {
+    "id": "md-001",
+    "title": "Campera Rompeviento",
+    "price": 1990,
+    "stock": 15,
+    "category": "moda",
+    "thumbnail": "https://picsum.photos/seed/camperawind/600/400"
+  },
+  {
+    "id": "md-002",
+    "title": "Zapatillas Urban",
+    "price": 3490,
+    "stock": 20,
+    "category": "moda",
+    "thumbnail": "https://picsum.photos/seed/zapatillaurban/600/400"
+  },
+  {
+    "id": "md-003",
+    "title": "Gorra Classic",
+    "price": 690,
+    "stock": 50,
+    "category": "moda",
+    "thumbnail": "https://picsum.photos/seed/gorraclassic/600/400"
+  },
+  {
+    "id": "md-004",
+    "title": "Buzo Hoodie Unisex",
+    "price": 1490,
+    "stock": 22,
+    "category": "moda",
+    "thumbnail": "https://picsum.photos/seed/buzohoodie/600/400"
+  },
+  {
+    "id": "hg-001",
+    "title": "Set de Vasos x6",
+    "price": 790,
+    "stock": 28,
+    "category": "hogar",
+    "thumbnail": "https://picsum.photos/seed/vasosx6/600/400"
+  },
+  {
+    "id": "hg-002",
+    "title": "Manta Polar 1,5 plazas",
+    "price": 1290,
+    "stock": 16,
+    "category": "hogar",
+    "thumbnail": "https://picsum.photos/seed/mantapolar/600/400"
+  },
+  {
+    "id": "hg-003",
+    "title": "Lámpara de Mesa LED",
+    "price": 990,
+    "stock": 19,
+    "category": "hogar",
+    "thumbnail": "https://picsum.photos/seed/lamparaled/600/400"
+  },
+  {
+    "id": "hg-004",
+    "title": "Silla Nórdica",
+    "price": 2790,
+    "stock": 10,
+    "category": "hogar",
+    "thumbnail": "https://picsum.photos/seed/sillanordica/600/400"
+  }
+]
